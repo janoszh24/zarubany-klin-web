@@ -76,7 +76,7 @@ export default function Page() {
               Zarubany Klin
             </h1>
             <p className="mt-4 text-base sm:text-lg text-white/85">
-              Humorno-zábavná dvojica.
+              Humorno-zábavná dvojica
             </p>
 
             <div className="mt-6 flex flex-col sm:flex-row gap-3">
